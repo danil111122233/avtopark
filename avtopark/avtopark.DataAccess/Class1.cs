@@ -1,4 +1,4 @@
-﻿namespace avtopark.DataAccess
+﻿namespace Avtopark.DataAccess
 {
     public class Class1
     {

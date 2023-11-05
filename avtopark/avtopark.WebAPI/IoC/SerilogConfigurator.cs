@@ -1,6 +1,6 @@
 ﻿using Serilog;
 
-namespace avtopark.WebAPI.IoC
+namespace Avtopark.WebAPI.IoC
 {
     /// <summary>
     /// Static class for serilog configuration

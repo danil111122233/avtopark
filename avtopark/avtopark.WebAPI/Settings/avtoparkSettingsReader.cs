@@ -1,11 +1,11 @@
-﻿namespace avtopark.WebAPI.Settings
+﻿namespace Avtopark.WebAPI.Settings
 {
-    public static class avtoparkSettingsReader
+    public static class AvtoparkSettingsReader
     {
-        public static avtoparkSettings Read(IConfiguration configuration)
+        public static AvtoparkSettings Read(IConfiguration configuration)
         {
             //здесь будет чтение настроек приложения из конфига
-            return new avtoparkSettings();
+            return new AvtoparkSettings();
         }
     }
 }

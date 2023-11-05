@@ -1,11 +1,11 @@
-using avtopark.WebAPI.IoC;
-using avtopark.WebAPI.Settings;
+using Avtopark.WebAPI.IoC;
+using Avtopark.WebAPI.Settings;
 
 var configuration = new ConfigurationBuilder()
 .AddJsonFile("appsettings.json", optional: false)
 .Build();
 
-var settings = avtoparkSettingsReader.Read(configuration);
+var settings = AvtoparkSettingsReader.Read(configuration);
 
 var builder = WebApplication.CreateBuilder(args);
 

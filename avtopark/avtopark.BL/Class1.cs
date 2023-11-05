@@ -1,4 +1,4 @@
-﻿namespace avtopark.BL
+﻿namespace Avtopark.BL
 {
     public class Class1
     {

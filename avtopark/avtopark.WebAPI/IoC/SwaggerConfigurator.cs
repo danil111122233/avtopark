@@ -1,4 +1,4 @@
-﻿namespace avtopark.WebAPI.IoC
+﻿namespace Avtopark.WebAPI.IoC
 {
     /// <summary>
     /// Static class for Swagger configuration
