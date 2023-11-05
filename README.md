@@ -54,4 +54,5 @@
 
 14. **Поддержка:**
     - Система поддержки для пользователей, включая чат, телефон и электронную почту.
-![image](https://github.com/danil111122233/avtopark/assets/128747576/cbdb1b0b-cb58-46ed-8d3b-369d23f503db)
+![-L-fexTv1UE](https://github.com/danil111122233/avtopark/assets/128747576/8cdaf745-e921-4043-8eda-c18ec6ea9e26)
+
