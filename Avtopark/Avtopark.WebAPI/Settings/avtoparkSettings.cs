@@ -1,7 +1,11 @@
-﻿namespace Avtopark.WebAPI.Settings
+﻿namespace Avtopark.WebApi.Settings
 {
     public class AvtoparkSettings
     {
-        //здесь будут приложения, например, строка подключения к бд
+        public Uri ServiceUri { get; set; }
+        public string AvtoparkDbContextConnectionString { get; set; }
+        public string IdentityServerUri { get; set; }
+        public string ClientId { get; set; }
+        public string ClientSecret { get; set; }
     }
 }
